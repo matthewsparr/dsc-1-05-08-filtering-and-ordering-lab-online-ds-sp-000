@@ -1,4 +1,4 @@
-INSERT INTO dogs (name, age, gender, breed, temperament, hungry) VALUES
+INSERT INTO dogs2 (name, age, gender, breed, temperament, hungry) VALUES
 ("Snoopy", 3, "M", "beagle", "friendly", 1),
 ("McGruff", 10, "M", "bloodhound", "aware", 0),
 ("Scooby", 6, "M", "great dane", "hungry", 1),
